@@ -1,0 +1,11 @@
+.itemContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
+
+.deleteIcon {
+  cursor: pointer;
+}

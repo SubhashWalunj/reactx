@@ -29,6 +29,12 @@
     "item-list-e2e": {
       "tags": [],
       "implicitDependencies": ["item-list"]
+    },
+    "ui": {
+      "tags": []
+    },
+    "data": {
+      "tags": []
     }
   }
 }
